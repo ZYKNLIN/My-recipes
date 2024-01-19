@@ -1,1 +1,1 @@
-# My-recipes
+# odin-recipes
